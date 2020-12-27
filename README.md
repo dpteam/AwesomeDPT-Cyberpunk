@@ -19,13 +19,16 @@
 ---
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/2005369/102132915-50042500-3e65-11eb-89de-710c9ba3857e.gif">
+<img src="https://user-images.githubusercontent.com/2005369/103180422-b8f88d80-48a6-11eb-9680-edccd5235284.gif">
 </p>
 
 #### Contributing
 
-You can add repository here. If you want to do so, then create an issue. (Create them here: https://github.com/dpteam/AwesomeDPT-Cyberpunk/issues ).
-You can also fork this repository and submit an pull with the request. (Link: https://github.com/dpteam/AwesomeDPT-Cyberpunk/edit/master/README.md ).
+You can add repository here. If you want to do so, then create an issue
+Create them here: https://github.com/dpteam/AwesomeDPT-Cyberpunk/issues
+
+You can also fork this repository and submit an pull with the request
+Link: https://github.com/dpteam/AwesomeDPT-Cyberpunk/edit/master/README.md
 
 Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
